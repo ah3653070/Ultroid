@@ -50,7 +50,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository: <br />
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://github.com/Ah3653070/Ultroid.git`
 - Go to the cloned folder: <br />
 `cd Ultroid`
 - Create a virtual env:   <br />
@@ -89,7 +89,7 @@ Different ways to get your `SESSION`:
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+Made with 💕 by [@Royalbotz ](https://t.me/Royalbotz). <br />
 
 # License
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
