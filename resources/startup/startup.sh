@@ -12,7 +12,7 @@ echo "
             ┃┃┃┗┫┏┫┏┫╋┃┃╋┃
             ┗━┻━┻━┻┛┗━┻┻━┛
 
-      Visit @TheUltroid for updates!!
+      Visit @Royalbotz for updates!!
 
 "
 
